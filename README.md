@@ -1,0 +1,2 @@
+# shane
+It is one of the convenient processes that most of the users apply during the tplinkrepeater.net setup process. Before performing the setup process through the WPS connection, make sure the router with which you are connecting your extender supports the WPS connection. If the router does have a WPS button on its front panel, you won’t be able to do the setup process through the WPS connection method.
